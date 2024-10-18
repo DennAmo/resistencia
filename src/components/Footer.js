@@ -3,9 +3,9 @@ import React from "react";
 const Footer = () => {
 
   return (
-      <footer>
-
-      </footer>
+    <footer className="footer">
+    <p>© 2024 Resistencia - All Rights Reserved</p>
+</footer>
   );
 };
 
